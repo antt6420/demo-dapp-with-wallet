@@ -144,4 +144,3 @@ After setting up ngrok or localtunnel, update your Telegram bot's configuration 
 2. Send the `/myapps` command and select your Mini App.
 3. Choose "Edit Web App URL".
 4. Enter the ngrok or localtunnel URL as the new destination.
- hihi
